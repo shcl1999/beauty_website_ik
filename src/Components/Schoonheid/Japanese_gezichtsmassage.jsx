@@ -6,10 +6,10 @@ const Japanese_gezichtsmassage = () => {
         <div id='JapanseGezichtsmassage' className="bg-[#f7f1ea] flex flex-col items-center min-h-screen">
             <div className='w-[90%] h-[1px] bg-[#023A15] mx-auto my-3'></div>
           <div className="flex flex-col lg:flex-row items-center max-w-6xl mx-auto p-10">
-            <div className="flex justify-center lg:justify-start w-full lg:w-1/2 md:mt-9 md:ml-[-110px]">
+            <div className="flex justify-center lg:justify-start w-full lg:w-1/2 md:mt-9 md:ml-[-145px]">
               <img src={Image} alt="Bindweefselmassage" className="object-contain w-60 h-60 md:w-80 md:h-auto"/>
             </div>
-            <div className="text-[#567C49] mt-8 lg:mt-0 w-full lg:w-1/2 md:mr-[90px] md:ml-[-70px]">
+            <div className="text-[#567C49] mt-8 lg:mt-0 w-full lg:w-1/2 md:mr-[90px] md:ml-[10px]">
               <h2 className="md:text-[60px] text-[24px] font-bold md:mb-3 mb-3 text-[#023A15]">Japanse gezichtsmassage</h2>
               <p className="md:text-lg text-[13px] font-light mb-1">
                 De effecten van een Japanse gezichtsmassage

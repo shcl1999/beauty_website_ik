@@ -19,15 +19,22 @@ const Top = ({ backgroundColor, title }) => {
              style={{ width: '70px', height: 'auto' }} />
         
         <div className='lg:flex top-1 left-0 right-0 justify-center items-center h-[114px] text-white'>
-          <ul className='text-xl flex md:space-x-[60px] space-x-1 text-md text-white pb-4'>
+          <ul className='text-xl flex md:space-x-[60px] text-md text-white pb-4'>
             <li  onClick={() => handleNavigate('/')}className='p-4 cursor-pointer'>Home</li>
-            <li className='p-4'><HashLink smooth to='/#Behandelingen'>Behandelingen</HashLink></li>
+            <li className="dropdown p-4 cursor-pointer">Behandelingen
+            <div className="dropdown-content">
+              <HashLink className='text-lg' smooth to='/Pedicure'>Pedicure</HashLink>
+              <HashLink className='text-lg' smooth to='/Schoonheid'>Schoonheid</HashLink>
+              <HashLink className='text-lg' smooth to='/Cupping'>Cupping</HashLink>
+              <HashLink className='text-lg' smooth to='/Voetreflex'>Voetreflex</HashLink>
+            </div>
+          </li>
             <li onClick={() => handleNavigate('/Tarieven')} className='p-4 cursor-pointer'>Tarieven</li>
             <li className='p-4'><HashLink smooth to='/#Contact'>Contact</HashLink></li>
           </ul>
         </div>
         
-        <div className='text-white md:text-[70px] mt-5 text-[40px]'>
+        <div className='cormorant text-white md:text-[70px] mt-5 text-[40px]'>
           {title}
         </div>
         <div className='flex flex-col items-center md:flex-row md:items-center h-auto md:h-[94px] mt-[60px] mb-[-3px]'>

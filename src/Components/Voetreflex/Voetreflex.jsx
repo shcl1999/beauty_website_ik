@@ -31,7 +31,7 @@ const Voetreflex = () => {
           
           </div>
           <div className='text-[#567C49] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[-10px] mr-8'>
-            <p className='md:mb-12 md:text-[65px] text-lg mb-6'>Voetreflex</p>
+            <p className='cormorant md:mb-12 md:text-[65px] text-2xl mb-6'>Voetreflex</p>
             <p className='mb-3'>Voetreflex is een alternatieve behandelmethode die uitgaat van de basisgedachte dat handen en voeten reflexzones hebben die in verbinding staan met alle organen, klieren, zenuwen, botten en weefsels. De therapie werkt holistisch, dat wil zeggen dat ze ervan uitgaat dat lichaam en geest van de mens één zijn. </p>
             <p className='mb-3'>Voetreflex is een prettige en veilige methode voor het herstellen van lichamelijke en emotionele klachten. Door het masseren van bepaalde voetreflexzones wordt de doorbloeding en de energiedoorstroming bevordert. Hierdoor worden afvalstoffen opgeruimd, wordt de opname van voedende stoffen hersteld en daarmee de gezonde circulatie. Dit leidt tot een betere gezondheid, vitaliteit en ontspanning van lichaam en geest. 
                 Er ontstaat een betere bloed- en lymfedoorstroming waardoor afvalstoffen gemakkelijker afgevoerd kunnen worden. </p>

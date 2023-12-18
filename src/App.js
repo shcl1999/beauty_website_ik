@@ -16,7 +16,7 @@ function App() {
     <div className="App">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Massage</title>
+        <title>Salon Irma</title>
       </Helmet>
         <BrowserRouter>	
         <ScrollToTop />

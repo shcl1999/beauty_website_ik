@@ -11,7 +11,7 @@ const Basis = () => {
         </div>
         
         <div className="text-[#567C49] flex-1 mt-4 md:mt-0 md:mr-[250px] md:ml-[80px]">
-          <h2 className="md:text-lg text-[13px] font-bold mb-4 md:whitespace-nowrap md:mt-12">Een basis pedicurebehandeling houdt het volgende in:</h2>
+          <h2 className="monsterrat md:text-lg text-[13px] font-bold mb-4 md:whitespace-nowrap md:mt-12">Een basis pedicurebehandeling houdt het volgende in:</h2>
           <ul className="list-disc pl-5 md:text-lg text-[13px] font-light space-y-2">
             <li>Analyse van de voet</li>
             <li>Nagelriemen verzorgen</li>

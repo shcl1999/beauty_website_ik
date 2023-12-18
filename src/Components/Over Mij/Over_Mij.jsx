@@ -22,13 +22,13 @@ const Over_Mij = () => {
         </div>
 
          <div className='text-[#462D10] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[30px] mr-8'>
-            <h1 className='mt-[100px] mb-3'>Behaalde diploma’s:</h1>
+            <h1 className='cormorant mt-[100px] mb-3 text-2xl md:text-4xl'>Behaalde diploma’s:</h1>
             <ul className="list-disc pl-5 md:text-lg text-[13px] font-light space-y-2">
                 <li>Pedicure</li>
                 <li>Medisch pedicure</li>
                 <li>Voetreflextherapie</li>
             </ul>
-          <h1 className='mt-6 mb-3'>Schoonheidsspecialisme, gespecialiseerd in:</h1>
+          <h1 className='mt-6 mb-3 text-2xl md:text-4xl'>Schoonheidsspecialisme, gespecialiseerd in:</h1>
             <ul className="list-disc pl-5 md:text-lg text-[13px] font-light space-y-2 mb-10">
                 <li>huidverbeterende bindweefsel</li>
                 <li>holistische beautymassages</li>

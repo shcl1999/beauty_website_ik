@@ -20,18 +20,18 @@ const Openingstijden = ({textColor, lineColor}) => {
         </div>
 
         <div className='flex flex-col items-start ml-5' style={textStyle}>
-          <h2 className='text-xl mb-12 mt-[-30px]'>Openingstijden</h2>
+          <h2 className='monsterrat text-xl mb-12 mt-[-30px]'>Openingstijden</h2>
           <ul className='space-y-1.5 text-[13px] md:text-lg'>
             <li className="flex justify-start w-full">
               <span className='mr-7'>Maandag</span>
               <span className='md:ml-[110px]'>09:00-21:00</span>
             </li>
-              <li className="flex justify-between w-full"><span>Dinsdag</span><span className="text-start w-[102px]">Gesloten</span></li>
+              <li className="flex justify-between w-full"><span>Dinsdag</span><span className="text-start md:w-[102px] w-[75px]">Gesloten</span></li>
               <li className="flex justify-between w-full"><span>Woensdag</span><span >09:00-21:00</span></li>
               <li className="flex justify-between w-full"><span>Donderdag</span><span >09:00-21:00</span></li>
               <li className="flex justify-between w-full"><span>Vrijdag</span><span >09:00-18:00</span></li>
               <li className="flex justify-between w-full"><span>Zaterdag</span><span >09:00-14:00</span></li>
-              <li className="flex justify-between w-full"><span>Zondag</span><span className="text-start w-[102px]">Gesloten</span></li>
+              <li className="flex justify-between w-full"><span>Zondag</span><span className="text-start md:w-[102px] w-[75px]">Gesloten</span></li>
           </ul>
         </div>
 
