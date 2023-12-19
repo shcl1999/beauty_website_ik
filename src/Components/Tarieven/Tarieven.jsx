@@ -24,7 +24,7 @@ const Tarieven = () => {
         <span className='font-bold md:ml-5 ml-2 md:text-[22px] text-[16px] text-black'>75 min</span>
      </p>
      <p className='md:text-[22px] text-md font-semibold'>Bellabaci cupping gezicht 
-        <span className='font-bold md:ml-[470px] ml-[38px]'>€60,-</span>
+        <span className='font-bold md:ml-[469px] ml-[38px]'>€60,-</span>
         <span className='font-bold md:ml-10 ml-7'>€75,-</span>
         <span className='font-bold md:ml-10 ml-7'>€90,-</span>
     </p>
