@@ -8,7 +8,7 @@ const Openingstijden = ({textColor, lineColor}) => {
   const textStyle = { color: textColor };
   const lineStyle = { backgroundColor: lineColor };
   return (
-    <div className='bg-[#f7f1ea] w-screen h-[30%] flex flex-col justify-between'>
+    <div className='bg-[#f7f1ea] w-full h-[30%] flex flex-col justify-between'>
       <div className='flex justify-center'>
         <div className='w-[95%] h-[1px] mx-auto' style={lineStyle}></div>
     </div>

@@ -12,7 +12,7 @@ const Behandelingen = () => {
   }
   const fixedBoxHeight = '110px';
   return (
-    <div id = 'Behandelingen' className="bg-[#f7f1ea] min-w-screen max-w-screen h-screen flex flex-col justify-center items-center">
+    <div id = 'Behandelingen' className="bg-[#f7f1ea] w-full h-screen flex flex-col justify-center items-center">
       <div className="text-center">
         <p className='cormorant font-light md:text-[76px] text-[35px] text-[#462D10] mb-3 md:mt-[-100px]'>Behandelingen</p>
         <p className='font-medium md:text-[18px] text-mdtext-[#716313] mb-[80px]'>In onze salon vind u de volgende behandelingen</p>

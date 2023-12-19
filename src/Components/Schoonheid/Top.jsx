@@ -20,8 +20,8 @@ const Top = ({ backgroundColor, title }) => {
         
         <div className='lg:flex top-1 left-0 right-0 justify-center items-center h-[114px] text-white'>
           <ul className='text-xl flex md:space-x-[60px] text-md text-white pb-4'>
-            <li  onClick={() => handleNavigate('/')}className='p-4 cursor-pointer'>Home</li>
-            <li className="dropdown p-4 cursor-pointer">Behandelingen
+            <li  onClick={() => handleNavigate('/')}className='p-3 cursor-pointer'>Home</li>
+            <li className="dropdown p-3 cursor-pointer">Behandelingen
             <div className="dropdown-content">
               <HashLink className='text-lg' smooth to='/Pedicure'>Pedicure</HashLink>
               <HashLink className='text-lg' smooth to='/Schoonheid'>Schoonheid</HashLink>
@@ -29,8 +29,8 @@ const Top = ({ backgroundColor, title }) => {
               <HashLink className='text-lg' smooth to='/Voetreflex'>Voetreflex</HashLink>
             </div>
           </li>
-            <li onClick={() => handleNavigate('/Tarieven')} className='p-4 cursor-pointer'>Tarieven</li>
-            <li className='p-4'><HashLink smooth to='/#Contact'>Contact</HashLink></li>
+            <li onClick={() => handleNavigate('/Tarieven')} className='p-3 cursor-pointer'>Tarieven</li>
+            <li className='p-3'><HashLink smooth to='/#Contact'>Contact</HashLink></li>
           </ul>
         </div>
         
@@ -39,11 +39,11 @@ const Top = ({ backgroundColor, title }) => {
         </div>
         <div className='flex flex-col items-center md:flex-row md:items-center h-auto md:h-[94px] mt-[60px] mb-[-3px]'>
   <ul className='text-sm md:text-xl flex flex-wrap justify-center space-x-0 md:space-x-4 lg:space-x-[60px] text-[#567C49] pb-4'>
-    <li className='p-2 md:p-4'><HashLink smooth to='#Schoonheidsbehandelingen'>Schoonheidsbehandelingen</HashLink></li>
-    <li className='p-2 md:p-4'><HashLink smooth to='#Bindweefselmassage'>Bindweefselmassage</HashLink></li>
-    <li className='p-2 md:p-4'><HashLink smooth to='#Guasha'>Guasha</HashLink></li>
-    <li className='p-2 md:p-4'><HashLink smooth to='#JapanseGezichtsmassage'>Japanse gezichtmassage</HashLink></li>
-    <li className='p-2 md:p-4'><HashLink smooth to='#Reiki'>Reiki</HashLink></li>
+    <li className='p-1 md:p-4'><HashLink smooth to='#Schoonheidsbehandelingen'>Schoonheidsbehandelingen</HashLink></li>
+    <li className='p-1 md:p-4'><HashLink smooth to='#Bindweefselmassage'>Bindweefselmassage</HashLink></li>
+    <li className='p-1 md:p-4'><HashLink smooth to='#Guasha'>Guasha</HashLink></li>
+    <li className='p-1 md:p-4'><HashLink smooth to='#JapanseGezichtsmassage'>Japanse gezichtmassage</HashLink></li>
+    <li className='p-1 md:p-4'><HashLink smooth to='#Reiki'>Reiki</HashLink></li>
   </ul>
 </div>
 

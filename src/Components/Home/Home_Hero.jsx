@@ -14,7 +14,7 @@ const Hero = () => {
   }
 
   return (
-    <div className="bg-[#D7C7B5] min-w-screen max-w-screen bg-cover bg-center bg-no-repeat h-screen items-center relative flex flex-col">
+    <div className="bg-[#D7C7B5] w-full bg-center bg-no-repeat h-screen items-center relative flex flex-col">
       <img src={Logo} alt="Logo" 
            className="mt-6 md:absolute md:left-2 md:mt-6 md:ml-4 md:md:ml-10" 
            style={{ width: '70px', height: 'auto' }} />

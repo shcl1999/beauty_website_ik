@@ -20,7 +20,7 @@ const Contact = () => {
   return (
     <div
       id = 'Contact'
-      className="min-w-screen max-w-screen h-screen flex flex-col justify-center items-center"
+      className="w-full h-screen flex flex-col justify-center items-center"
       style={{
         backgroundImage: `url(${Background})`,
         backgroundSize: 'cover',
