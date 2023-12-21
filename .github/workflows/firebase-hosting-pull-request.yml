@@ -13,5 +13,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_FOOT_MASSAGE_CUPPING }}'
-          projectId: foot-massage-cupping
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_SALONIRMA_A559E }}'
+          projectId: salonirma-a559e
