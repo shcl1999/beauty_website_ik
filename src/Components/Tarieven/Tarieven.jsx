@@ -37,7 +37,7 @@ const Tarieven = () => {
     <p className='md:text-[22px] text-md font-semibold'>Bellabaci cupping kuur <span className='md:text-[16px] text-sm font-light'>60 min 7+1 gratis</span><span className='font-bold md:ml-[548px] ml-[69px]'>€604,-</span></p>
     <p className='md:text-[22px] text-md font-semibold mb-9'>Bellabaci cupping kuur <span className='md:text-[16px] text-sm font-light'>75 min 7+1 gratis</span><span className='font-bold md:ml-[551px] ml-[71px]'>€708,-</span></p>
     <p className='md:mr-[200px] italic md:text-[16px] text-sm font-light mb-9'>De kuren zijn inclusief een Bellabaci tasje (genie + 2 cups, harde en een zachte) en 8 weken lang online begeleiding inclusief 21 video’s E-book en een voortgangskaart t.w.v. €100.</p>
-    <p className='text:text-[28px] text-[20px] font-semibold mb-8'>Speciale voetreflexmassages</p>
+    <p className='md:text-[28px] text-[20px] font-semibold mb-8'>Speciale voetreflexmassages</p>
     <p className='md:text-[22px] text-md font-semibold'>Metamorfose voetreflexmassage  
     <span className='font-bold md:ml-[592px] ml-[233px]'>€80,-</span></p>
     <p className='md:text-[22px] text-md font-semibold'>Verbroken verbindingsmassage 
