@@ -23,7 +23,7 @@ const Behandelingen = () => {
         <img src={Pedicure} alt="Pedicure" className='w-full h-auto' />
         <div className="absolute bottom-0 mb-[-80px] left-1/2 transform -translate-x-1/2 bg-white w-[95%] p-3 border-3" style={{ height: fixedBoxHeight }}>
           <h3 className="text-lg font-light text-[#462D10] mt-[-5px]">Pedicure</h3>
-          <p className='text-[#716313] font-light text-[13px]'>Stap in stijl, voel het verschil met elke stap!</p>
+          <p className='text-[#716313] font-light text-[13px]'>Voel het verschil in elke stap!</p>
         </div>
       </div>
 
@@ -39,7 +39,7 @@ const Behandelingen = () => {
         <img src={Cupping} alt="Cupping" className='w-full h-auto' />
         <div className="absolute bottom-0 mb-[-80px] left-1/2 transform -translate-x-1/2 bg-white w-[95%] p-3 border-3" style={{ height: fixedBoxHeight }}>
           <h3 className="text-lg font-light text-[#462D10] mt-[-5px]">Cupping</h3>
-          <p className='text-[#716313] font-light text-[13px]'>Verbeterd de doorbloeding en vermindert spierpijn </p>
+          <p className='text-[#716313] font-light text-[13px]'>Verbetert de doorbloeding en vermindert de spierpijn </p>
         </div>
       </div>
       
@@ -47,7 +47,7 @@ const Behandelingen = () => {
         <img src={Voetreflex} alt="Voetreflex" className='w-full h-auto' />
         <div className="absolute bottom-0 mb-[-80px] left-1/2 transform -translate-x-1/2 bg-white w-[95%] p-3 border-3" style={{ height: fixedBoxHeight }}>
           <h3 className="text-lg font-light text-[#462D10] mt-[-5px]">Voetreflex</h3>
-          <p className='text-[#716313] font-light text-[13px]'>de weg naar ontspanning, balans en welzijn van top tot teen</p>
+          <p className='text-[#716313] font-light text-[13px]'> Weg naar ontspanning, balans en welzijn van top tot teen</p>
         </div>
       </div>
       

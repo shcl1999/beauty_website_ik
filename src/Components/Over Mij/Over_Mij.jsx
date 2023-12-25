@@ -14,7 +14,7 @@ const Over_Mij = () => {
           
         </div>
         <div className='text-[#462D10] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[30px] mr-8'>
-            <p className='mb-6'>Ik ben Irma en van jongs af aan heb ik aandacht voor de mens en natuur. Rond mijn achtentwintigste (1998) ontdekte ik mijn passie en ben ik in de wereld van voetverzorging gestapt, met als specialisatie pedicure voor diabetespatiënten. </p>
+            <p className='mb-6'>Ik ben Irma en van jongs af aan heb ik aandacht voor de mens en natuur. Rond mijn achtentwintigste (1998) ontdekte ik mijn passie en ben ik in de wereld van voetverzorging gestapt, met als specialisatie pedicure voor diabetes. </p>
             <p className='mb-6'>Vanuit mijn holistische kijk op het leven, mijn drijfveer om mezelf te ontwikkelen en vanuit mijn nieuwsgierigheid heb ik me daarom verdiept in de voetverzorging en inmiddels ook in huidproblemen. Ik zoek graag samen met mijn klant naar de diepere oorzaken van eventuele voet- en huidverzorging zodat ik resultaatgericht te werk kan gaan met mijn behandelingen. De huid is de spiegel van je darmen, en je darmen zijn je tweede brein, dus voor mij staat alles in verbinding met elkaar. Daarom werk ik in mijn schoonheidssalon in Rotterdam niet alleen op huidverbetering maar ook op leefstijl en mindset. </p>
             <p className='mb-6'>Ik krijg energie als mijn klanten niet alleen met stralende voeten en/of huid naar buiten wandelen maar als ik ook de sprankeling terug zie in hun ogen. Mijn behandelingen onderscheiden zich door mijn kernwaarden: Aandacht, kwaliteit en optimaal resultaat.</p>
             <p className='mb-8'>Onderzoekend als ik ben, werd door het werk als pedicure mijn nieuwsgierigheid naar de werking van de mens aangewakkerd. Dat kwam omdat ik in mijn werk veel mensen met lichamelijke en vaak ook emotionele klachten tegen kom</p>
@@ -34,7 +34,7 @@ const Over_Mij = () => {
                 <li>holistische beautymassages</li>
                 <li>anti cellulite cuppingmassages</li>
             </ul>
-            <p className='md:mb-8 mb-7'>Met mijn massages breng ik je een diepe ontspanning zodat je dichterbij je kern komt en tot meer bewustwording komt om eventuele voet- en/of huidproblemen te verbeteren.</p>
+            <p className='md:mb-8 mb-7'>Met mijn massages breng ik je een diepe ontspanning zodat je dichterbij je kern komt en tot bewustwording komt om eventuele voet- en/of huidproblemen te verbeteren.</p>
          </div>
         </div>
       );

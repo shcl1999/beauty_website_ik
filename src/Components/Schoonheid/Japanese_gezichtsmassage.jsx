@@ -25,7 +25,7 @@ const Japanese_gezichtsmassage = () => {
           <div className='text-[#567C49] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[-10px]'>
             <p>Een Japanse gezichtsmassage is een speciale vorm van gezichtsmassage en betekent letterlijk ‘het traditionele pad van de schoonheid’. Bij deze eeuwenoude massagetechniek uit Japan wordt gebruik gemaakt van technieken uit de acupressuur en lymfedrainage waarbij het doel is om het gezicht een natuurlijke lifting te geven.</p>
             <p>Deze natuurlijke behandeling is erop gericht om veroudering van de gezichtshuid tegen te gaan, de huid te herstellen en de bloedcirculatie te verbeteren.</p>
-            <p>Deze cosmetische massage verbetert de bloedcirculatie, zodat er meer zuurstof naar het gezicht stroomt en daardoor kunnen toxines en dode huidcellen verwijderd worden. Dit helpt het verouderen van het gezicht te vertragen door de effecten van stress en een slappe huid te verminderen. Daarnaast heeft het ook een diepe ontspannende werking.</p>
+            <p>Deze cosmetische massage verbetert de bloedcirculatie, zodat er meer zuurstof naar het gezicht stroomt en daardoor kunnen toxines en dode huidcellen verwijderd. Dit helpt het verouderen van het gezicht te vertragen door de effecten van stress en een slappe huid te verminderen. Daarnaast heeft het ook een diepe ontspannende werking.</p>
             <p>Om maximaal effect te behalen met de Japanse gezichtsmassage is het aan te bevelen om deze massage in een kuur te volgen.</p>
           </div>
         </div>
