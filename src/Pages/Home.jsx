@@ -7,7 +7,7 @@ import Openingstijden from '../Components/Openingstijden'
 const Home = () => {
   return (
     <div>
-      
+      <HomeHero />
       <Behandeling />
       <Contact />
       <Openingstijden textColor="#716313" lineColor="#716313" />
