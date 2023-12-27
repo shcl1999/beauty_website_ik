@@ -65,7 +65,13 @@ const Tarieven = () => {
         <span className='font-bold md:ml-10 ml-7'>€90,-</span>
     </p>
     <p className='md:text-[22px] text-md font-semibold'>Bellabaci cupping cellulite</p>
+         <span className='font-bold md:ml-[469px] ml-[38px]'>€60,-</span>
+        <span className='font-bold md:ml-10 ml-7'>€75,-</span>
+        <span className='font-bold md:ml-10 ml-7'>€90,-</span>
     <p className='md:text-[22px] text-md font-semibold'>Bellabaci cupping stress </p>
+    <span className='font-bold md:ml-[469px] ml-[38px]'>€60,-</span>
+        <span className='font-bold md:ml-10 ml-7'>€75,-</span>
+        <span className='font-bold md:ml-10 ml-7'>€90,-</span>
 
     <p className='md:text-[22px] text-md font-semibold'>Bellabaci cupping kuur <span className='md:text-[16px] text-sm font-light'>45 min 7+1 gratis</span><span className='font-bold md:ml-[548px] ml-[70px]'>€498,-</span></p>
     <p className='md:text-[22px] text-md font-semibold'>Bellabaci cupping kuur <span className='md:text-[16px] text-sm font-light'>60 min 7+1 gratis</span><span className='font-bold md:ml-[548px] ml-[69px]'>€604,-</span></p>
