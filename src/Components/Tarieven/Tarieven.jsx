@@ -4,6 +4,42 @@ const Tarieven = () => {
   return (
     <div className="bg-[#f7f1ea] flex flex-col min-h-screen " style={{minHeight:'100%'}}>
     <div className='md:ml-[200px] ml-5 mt-10 md:mr-[190px] mr-2'>
+
+    <div className='md:w-[105%] w-[95%] h-[1px] bg-[#023A15] mx-auto my-12'></div>
+    <h1 className='md:text-[66px] text-4xl font-bold text-[#462D10] md:mb-10'>Pedicure</h1>
+    <p className='md:text-[32px] text-lg font-semibold mb-8'>Pedicurebehandelingen</p>
+    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling Basis<span className='md:text-[16px] text-sm font-light'>(30-45 minuten)</span><span className='font-bold md:ml-[586px] ml-[95px]'>€45,-</span></p>
+    <p className='italic md:text-[16px] text-sm font-light'>Nagels Knippen en verzorgen nagelomgeving/ verwijderen overtollig eelt / ingegroeide </p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>nagel(s) en- of schimmelnagels/ verwijderen likdoorns/ verzorgende voeten crème </p>
+    <p className='md:text-[22px] text-md font-semibold mb-5'>Pedicurebehandeling Complex  <span className='md:text-[16px] text-sm font-light'>(45-60 minuten)</span><span className='font-bold md:ml-[478px] ml-[16px]'>€58,-</span></p>
+    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling Luxe <span className='md:text-[16px] text-sm font-light'>(75 minuten)</span><span className='font-bold md:ml-[552px] ml-[74px]'>€80,-</span></p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>Pedicurebehandeling, scrub en voedende , hydraterend masker van Strictly Pure en voetmassage </p>
+
+    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling diabetische/reumatische voet <span className='font-bold md:ml-[508px] ml-[57px]'>€50,-</span></p> 
+    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling reumatische voet <span className='font-bold md:ml-[508px] ml-[57px]'>€50,-</span></p>
+    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling overige risico voeten <span className='font-bold md:ml-[508px] ml-[67px]'>€50,-</span></p>
+    <p className='md:text-[22px] text-md font-semibold'>Deelbehandeling <span className='md:text-[16px] text-sm font-light'>(15 minuten)</span><span className='font-bold md:ml-[669px] ml-[159px]'>€25,-</span></p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>In de deelbehandeling wordt 1 probleem aangepakt, bijv. 1 likdoorn of 1 kloof</p>
+
+    <p className='md:text-[22px] text-md font-semibold'>Nagels lakken*  <span className='font-bold md:ml-[797px] ml-[264px]'>€10,-</span></p>
+    <p className='md:text-[22px] text-md font-semibold'>Silicone orthese  <span className='font-bold md:ml-[782px] ml-[254px]'>€25,-</span></p>
+    <p className='md:text-[22px] text-md font-semibold'>Nagelbeugel <span className='font-bold md:ml-[819px] ml-[281px]'>€30,-</span></p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>(alleen icm pedicurebehandeling)</p>
+    <p className='md:text-[22px] text-md font-semibold'>Nagel 'reparatie' met gel <span className='md:ml-[524px] ml-[93px]'>Per nagel</span><span className='font-bold md:ml-[50px] ml-[10px]'>€25,-</span></p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>(alleen icm pedicurebehandeling)</p>
+    <p className='md:text-[22px] text-md font-semibold'>Voetreflexmassage <span className='md:text-[16px] text-sm font-light'> (45 minuten ontspanning)</span><span className='font-bold md:ml-[533px] ml-[42px]'>€60,-</span></p>
+    <p className='md:text-[22px] text-md font-semibold'>Voet en onderbeenmassage<span className='md:text-[16px] text-sm font-light'>(30 minuten)</span></p>
+    <p className='italic md:text-[16px] text-sm font-light mb-4'>alleen icm pedicurebehandeling</p>
+    <p className='italic md:text-[16px] text-sm font-light mb-[100px] mr-3'>*Nagellak verkrijgbaar in de praktijk. Nagels kunnen alleen gelakt worden als u slippers heeft.</p>
+    <p className='text:text-[28px] text-[20px] font-semibold mb-8 text-[#462D10]'>Manicurebehandelingen*</p>
+    <p className='md:text-[22px] text-md font-semibold'>Parafine manicure <span className='md:text-[16px] text-sm font-light'>(45 minuten)</span><span className='font-bold md:ml-[649px] ml-[145px]'>€45,-</span></p>
+    <p className='md:mr-[200px] italic md:text-[18px] text-sm font-light'>Nagelriemen verzorgen, nagels knippen, vijlen, scrub, handmassage, handcrème, parafine bad.</p>
+    <p className='md:text-[22px] text-md font-semibold'>Nagels handen vijlen/knippen <span className='font-bold md:ml-[620px] ml-[139px]'>€15,-</span></p>
+    <p className='md:text-[22px] text-md font-semibold'>Ontspannende handmassage <span className='md:text-[16px] text-sm font-light'>(25 minuten)</span><span className='font-bold md:ml-[524px] ml-[52px]'>€30,-</span></p>
+    <p className='italic md:text-[16px] text-sm font-light mb-4'>Inclusief handcrème</p>
+    <p className='italic md:text-[16px] text-sm font-light mb-[100px]'>*Manicurebehandelingen zijn alleen mogelijk in combinatie met een andere behandeling</p>
+    <div className='md:w-[105%] w-[95%] h-[1px] bg-[#023A15] mx-auto my-12'></div>
+
     <h1 className='md:text-[66px] text-4xl font-bold text-[#462D10] md:mb-10'>Massage</h1>
       <p className='md:text-[28px] text-lg font-semibold mb-8'>Huidverbeterende massages</p>
       <p className='md:text-[22px] text-md font-semibold'>Bindweefsel gezicht & decolleté <span className='md:text-[16px] text-sm font-light'>(45 minuten)</span><span className='font-bold md:ml-[491px] ml-[25px]'>€60,-</span></p>
@@ -44,42 +80,9 @@ const Tarieven = () => {
     <span className='font-bold md:ml-[665px] ml-[232px]'>€70,-</span></p>
     <p className='md:text-[22px] text-md font-semibold mb-[100px]'>Detox voetreflexmassage 
     <span className='font-bold md:ml-[678px] ml-[232px]'>€70,-</span></p>
-    
+
+
     <div className='md:w-[105%] w-[95%] h-[1px] bg-[#023A15] mx-auto my-12'></div>
-    <h1 className='md:text-[66px] text-4xl font-bold text-[#462D10] md:mb-10'>Pedicure</h1>
-    <p className='md:text-[32px] text-lg font-semibold mb-8'>Pedicurebehandelingen</p>
-    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling Basis<span className='md:text-[16px] text-sm font-light'>(30-45 minuten)</span><span className='font-bold md:ml-[586px] ml-[95px]'>€45,-</span></p>
-    <p className='italic md:text-[16px] text-sm font-light'>Nagels Knippen en verzorgen nagelomgeving/ verwijderen overtollig eelt / ingegroeide </p>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>nagel(s) en- of schimmelnagels/ verwijderen likdoorns/ verzorgende voeten crème </p>
-    <p className='md:text-[22px] text-md font-semibold mb-5'>Pedicurebehandeling Complex  <span className='md:text-[16px] text-sm font-light'>(45-60 minuten)</span><span className='font-bold md:ml-[478px] ml-[16px]'>€58,-</span></p>
-    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling Luxe <span className='md:text-[16px] text-sm font-light'>(75 minuten)</span><span className='font-bold md:ml-[552px] ml-[74px]'>€80,-</span></p>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>Pedicurebehandeling, scrub en voedende , hydraterend masker van Strictly Pure en voetmassage </p>
-
-    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling diabetische/reumatische voet <span className='font-bold md:ml-[508px] ml-[57px]'>€50,-</span></p> 
-    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling reumatische voet <span className='font-bold md:ml-[508px] ml-[57px]'>€50,-</span></p>
-    <p className='md:text-[22px] text-md font-semibold'>Pedicurebehandeling overige risico voeten <span className='font-bold md:ml-[508px] ml-[67px]'>€50,-</span></p>
-    <p className='md:text-[22px] text-md font-semibold'>Deelbehandeling <span className='md:text-[16px] text-sm font-light'>(15 minuten)</span><span className='font-bold md:ml-[669px] ml-[159px]'>€25,-</span></p>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>In de deelbehandeling wordt 1 probleem aangepakt, bijv. 1 likdoorn of 1 kloof</p>
-
-    <p className='md:text-[22px] text-md font-semibold'>Nagels lakken*  <span className='font-bold md:ml-[797px] ml-[264px]'>€10,-</span></p>
-    <p className='md:text-[22px] text-md font-semibold'>Silicone orthese  <span className='font-bold md:ml-[782px] ml-[254px]'>€25,-</span></p>
-    <p className='md:text-[22px] text-md font-semibold'>Nagelbeugel <span className='font-bold md:ml-[819px] ml-[281px]'>€30,-</span></p>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>(alleen icm pedicurebehandeling)</p>
-    <p className='md:text-[22px] text-md font-semibold'>Nagel 'reparatie' met gel <span className='md:ml-[524px] ml-[93px]'>Per nagel</span><span className='font-bold md:ml-[50px] ml-[10px]'>€25,-</span></p>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>(alleen icm pedicurebehandeling)</p>
-    <p className='md:text-[22px] text-md font-semibold'>Voetreflexmassage <span className='md:text-[16px] text-sm font-light'> (45 minuten ontspanning)</span><span className='font-bold md:ml-[533px] ml-[42px]'>€60,-</span></p>
-    <p className='md:text-[22px] text-md font-semibold'>Voet en onderbeenmassage<span className='md:text-[16px] text-sm font-light'>(30 minuten)</span></p>
-    <p className='italic md:text-[16px] text-sm font-light mb-4'>alleen icm pedicurebehandeling</p>
-    <p className='italic md:text-[16px] text-sm font-light mb-[100px] mr-3'>*Nagellak verkrijgbaar in de praktijk. Nagels kunnen alleen gelakt worden als u slippers heeft.</p>
-    <p className='text:text-[28px] text-[20px] font-semibold mb-8 text-[#462D10]'>Manicurebehandelingen*</p>
-    <p className='md:text-[22px] text-md font-semibold'>Parafine manicure <span className='md:text-[16px] text-sm font-light'>(45 minuten)</span><span className='font-bold md:ml-[649px] ml-[145px]'>€45,-</span></p>
-    <p className='md:mr-[200px] italic md:text-[18px] text-sm font-light'>Nagelriemen verzorgen, nagels knippen, vijlen, scrub, handmassage, handcrème, parafine bad.</p>
-    <p className='md:text-[22px] text-md font-semibold'>Nagels handen vijlen/knippen <span className='font-bold md:ml-[620px] ml-[139px]'>€15,-</span></p>
-    <p className='md:text-[22px] text-md font-semibold'>Ontspannende handmassage <span className='md:text-[16px] text-sm font-light'>(25 minuten)</span><span className='font-bold md:ml-[524px] ml-[52px]'>€30,-</span></p>
-    <p className='italic md:text-[16px] text-sm font-light mb-4'>Inclusief handcrème</p>
-    <p className='italic md:text-[16px] text-sm font-light mb-[100px]'>*Manicurebehandelingen zijn alleen mogelijk in combinatie met een andere behandeling</p>
-    <div className='md:w-[105%] w-[95%] h-[1px] bg-[#023A15] mx-auto my-12'></div>
-
     <h1 className='md:text-[66px] text-4xl font-bold text-[#462D10] mb-12'>Voetreflextherapie</h1>
     <p className='md:text-[24px] text-md font-semibold'>Therapeutische voetreflex massage  <span className='md:text-[18px] text-sm font-light'>(60-75 minuten)</span><span className='font-bold md:ml-[368px] ml-[370px]'>€75,-</span></p>
     <div className='md:w-[105%] w-[95%] h-[1px] bg-[#023A15] mx-auto my-12'></div>
