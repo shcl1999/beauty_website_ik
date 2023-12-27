@@ -38,7 +38,7 @@ const Openingstijden = ({textColor, lineColor}) => {
 
         <div className='flex flex-col items-center md:items-start'>
           <div className='md:flex md:flex-row md:items-center md:justify-between hidden'>
-            <img src={Opening1} alt="Opening Time 1" />
+            <img className='ml-[-35px] mr-[50px]'src={Opening1} alt="Opening Time 1" />
             <img src={Opening2} alt="Opening Time 2" className='mx-4' />
           </div>
           <div className='md:flex md:flex-row md:items-center md:justify-between hidden'>
