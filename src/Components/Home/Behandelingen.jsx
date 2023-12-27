@@ -15,7 +15,7 @@ const Behandelingen = () => {
     <div id = 'Behandelingen' className="bg-[#f7f1ea] w-full h-screen flex flex-col justify-center items-center">
       <div className="text-center">
         <p className='cormorant font-light md:text-[76px] text-[35px] text-[#462D10] mb-3 md:mt-[-100px]'>Behandelingen</p>
-        <p className='font-medium md:text-[18px] text-mdtext-[#716313] mb-[80px]'>In onze salon vind u de volgende behandelingen</p>
+        <p className='font-medium md:text-[18px] text-mdtext-[#716313] mb-[80px]'>In onze salon vindt u de volgende behandelingen</p>
       </div>
       <div className='grid md:grid-cols-4 grid-cols-2 gap-[70px] p-10 w-full max-w-6xl mt-[-30px]'>
       

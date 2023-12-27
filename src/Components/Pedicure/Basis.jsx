@@ -16,7 +16,7 @@ const Basis = () => {
             <li>Analyse van de voet</li>
             <li>Nagelriemen verzorgen</li>
             <li>Knippen van de nagels</li>
-            <li>Ingroeiende of ingegroeide teennagels behandelen</li>
+            <li>Ingroeiende teennagels behandelen</li>
             <li>Overbodig eelt verwijderen</li>
             <li>Verwijderen van eventuele likdoorns</li>
             <li>Frezen en polijsten van de nagels</li>

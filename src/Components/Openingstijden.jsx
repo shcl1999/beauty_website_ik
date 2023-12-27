@@ -3,6 +3,7 @@ import logo from '../Assets/Home/OpeningLogo.png';
 import Opening1 from '../Assets/Home/OpeningTime1.png';
 import Opening2 from '../Assets/Home/OpeningTime2.png';
 import Opening3 from '../Assets/Home/OpeningTime3.png';
+import Opening4 from '../Assets/Home/OpeningTime4.png';
 
 const Openingstijden = ({textColor, lineColor}) => {
   const textStyle = { color: textColor };
@@ -36,12 +37,15 @@ const Openingstijden = ({textColor, lineColor}) => {
         </div>
 
         <div className='flex flex-col items-center md:items-start'>
-          <div className='md:flex md:flex-row md:items-center md:justify-center hidden'>
+          <div className='md:flex md:flex-row md:items-center md:justify-between hidden'>
             <img src={Opening1} alt="Opening Time 1" />
             <img src={Opening2} alt="Opening Time 2" className='mx-4' />
-            <img src={Opening3} alt="Opening Time 3" />
           </div>
-          <p className='md:mt-2 md:ml-[65px] hidden md:block' style={textStyle}>Privacy Verklaring</p>
+          <div className='md:flex md:flex-row md:items-center md:justify-between hidden'>
+            <img src={Opening3} alt="Opening Time 3" />
+            <img src={Opening4} alt="Opening Time 4" />
+          </div>
+          <a href="https://www.voetreflextherapierotterdam.nl/privacy-avg/" className='md:mt-2 md:ml-[65px] hidden md:block' style={textStyle}>Privacy Verklaring</a>
         </div>
       </div>
 
