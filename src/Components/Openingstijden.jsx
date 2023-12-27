@@ -45,7 +45,7 @@ const Openingstijden = ({textColor, lineColor}) => {
             <img src={Opening3} alt="Opening Time 3" />
             <img src={Opening4} alt="Opening Time 4" />
           </div>
-          <a href="https://www.voetreflextherapierotterdam.nl/privacy-avg/" className='md:mt-2 md:ml-[65px] hidden md:block' style={textStyle}>Privacy Verklaring</a>
+          <a href="https://www.voetreflextherapierotterdam.nl/privacy-avg/" className='md:mt-2 md:ml-[65px] hidden md:block underline' style={textStyle}>Privacy Verklaring</a>
         </div>
       </div>
 

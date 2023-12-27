@@ -32,17 +32,17 @@ const Tarieven = () => {
     
     <div className="grid grid-cols-[5fr,1fr] gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
-            Pedicurebehandeling diabetische/reumatische voet
+            Pedicurebehandeling diabetische/reumatische voet <span className='md:text-[16px] text-sm font-light'>(30-60 minuten)</span>
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€50,-</p>
 
           <p className='md:text-[22px] text-md font-semibold'>
-          Pedicurebehandeling reumatische voet
+          Pedicurebehandeling reumatische voet <span className='md:text-[16px] text-sm font-light'>(30-60 minuten)</span>
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€50,-</p>
 
           <p className='md:text-[22px] text-md font-semibold'>
-            Pedicurebehandeling overige risico voeten
+            Pedicurebehandeling overige risico voeten <span className='md:text-[16px] text-sm font-light'>(30-60 minuten)</span>
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€50,-</p>
 
@@ -292,6 +292,15 @@ const Tarieven = () => {
     <h1 className='md:text-[66px] text-4xl font-bold text-[#462D10] mb-12'>Schoonheid</h1>
     {/* <p className='md:text-[22px] text-md font-semibold'>Huidverbeterende schoonheidsbehandeling basis <span className='md:text-[16px] text-sm font-light'>(60 minuten)</span><span className='font-bold md:ml-[288px] ml-[330px]'>€75,-</span></p>
     <p className='md:mr-[210px] italic md:text-[16px] text-sm font-light mb-5'>Intensieve reiniging met peeling of scrub, stomen, verwijderen van onzuiverheden,epileren van de wenkbrauwen, masker, tijdens het masker massage van decolleté, nek en schouders of een uitgebreide handmassage, dag/nacht verzorging</p> */}
+    <div className="grid grid-cols-[6fr,1fr] gap-4"> 
+      <p className='md:text-[22px] text-md font-semibold'>
+      Huidverbeterende schoonheidsbehandeling booster <span className='md:text-[16px] text-sm font-light'>(45 minuten)</span>
+      </p>
+      <p className='md:text-[22px] text-md font-bold text-right'>60,-</p>
+    </div>
+    <p className='md:mr-[200px] italic md:text-[16px] text-sm font-light mb-8'> Oppervlakte reiniging, dieptereiniging, masker, zuurstof en afsluitende dagcreme.</p>
+
+    
     <div className="grid grid-cols-[6fr,1fr] gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
           Huidverbeterende schoonheidsbehandeling plus <span className='md:text-[16px] text-sm font-light'>(90 minuten)</span>
