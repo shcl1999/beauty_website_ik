@@ -22,8 +22,8 @@ const Reiki = () => {
           <div className='text-[#567C49] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[-10px]'>
             <p>In onze salon gaan we verder dan uiterlijke schoonheid; we omarmen ook het waardevolle van de interne balans. Ontdek de transformatorende kracht van Reiki, een eeuwenoude Japanse helingstechniek die zowel ontspanning als welzijn zwaar nastreeft.</p>
             <p className='mt-4 font-bold'>Voor wie is Reiki geschikt:</p>
-            <p>Reiki is geschikt voor een iedereen die streeft naar een holistische benadering van welzijn. Of je nu stress ervaart, lichamelijke ongemakken hebt of krachtige behoefte aan ontspanning, Reiki verleent zich aan de unieke behoeften van elk individu.</p>
-            <p className='mb-9'>Laat de kracht van Reiki je leiden naar een diepe staat van ontspanning en harmonie. Maak vandaag nog een afspraak en ontdek de heilzame voordelen van deze eeuwenoude helingstechniek in onze salon. Welzijn begint hier.</p>
+            <p>Reiki is geschikt voor een iedereen die streeft naar een holistische benadering van welzijn. Of u nu stress ervaart, lichamelijke ongemakken hebt of krachtige behoefte aan ontspanning nastreeft, Reiki verleent zich aan de unieke behoeften van elk individu.</p>
+            <p className='mb-9'>Laat de kracht van Reiki u leiden naar een diepe staat van ontspanning en harmonie. Maak vandaag nog een afspraak en ontdek de heilzame voordelen van deze eeuwenoude helingstechniek in onze salon. Welzijn begint hier.</p>
           </div>
         </div>
       );

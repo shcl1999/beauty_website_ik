@@ -21,14 +21,15 @@ const Bindweefselmassage = () => {
             <li>Fijne lijntjes worden minder zichtbaar</li>
           </ul>
           <p className="md:text-lg text-[13px] font-light mt-4">
-            Het beste resultaat wordt bereikt na een kuur, bijvoorbeeld 6 weken elke week 1 massage. Daarna houd je dit resultaat vast door elke 4 tot 6 weken een bindweefselmassage in te plannen voor je huid.
+            Het beste resultaat wordt bereikt na een kuur, bijvoorbeeld 6 weken elke week 1 massage. Daarna houdt u dit resultaat vast door elke 4 tot 6 weken een bindweefselmassage in te plannen voor uw huid.
           </p>
         </div>
       </div>
       <div className='text-[#567C49] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[-10px]'>
         <p>De bindweefsellaag van de huid bevat collageen. Naarmate we ouder worden, neemt de collageenproductie af en vertraagt de stofwisseling. Producten worden niet meer optimaal opgenomen, waardoor de huid slapper wordt en een vale teint krijgt.</p>
         <p>Het doel van deze massage is het stimuleren van collageen en het los masseren van verklevingen die in de huid zijn opgebouwd. Door de huid goed te doorbloeden, is de huid ook beter in staat om voedingsstoffen op te nemen.</p>
-        <p>Mensen denken vaak dat deze massage heel pijnlijk is. In het begin kan een bindweefselmassage inderdaad best wel pittig aanvoelen. Tijdens een kuur wordt de druk van de massage geleidelijk opgebouwd en zal dit gevoel verminderen.</p>
+        <p>Mensen denken vaak dat deze massage erg pijnlijk is. In het begin kan
+          een bindweefselmassage best wel pittig aanvoelen. Tijdens de kuur zal dit verminderen.</p>
       </div>
     </div>
   );

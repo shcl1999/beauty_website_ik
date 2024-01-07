@@ -15,7 +15,7 @@ const Cupping = () => {
           <ul className="list-disc pl-5 md:text-lg text-[13px] font-light space-y-2">
             <li>Verbeterde Doorbloeding: Stimuleert een gezonde bloedsomloop voor een stralende huid.</li>
             <li>Vermindering van pijnlijke en gespannen spieren</li>
-            <li>Lymfedrainage: Ondersteunt het natuurlijke ontgiftingsproces van je lichaam.</li>
+            <li>Lymfedrainage: Ondersteunt het natuurlijke ontgiftingsproces van uw lichaam.</li>
             <li>Cellulite vermindering: Draagt ​​bij een gladdere huidtextuur.</li>
           </ul>
 
@@ -32,8 +32,8 @@ const Cupping = () => {
         <p className='font-bold'>Cupping als Kuur:</p>
         <p className='mb-5'>De kracht van Cupping komt het beste tot uiting bij karakteristieke behandelingen. Onze aanbevolen
           kuur van 6-8 sessies biedt niet alleen directe voordelen, maar ook langdurige resultaten. Elke sessie
-          draagt ​​bij aan een geleidelijke verbetering van je welzijn en huidconditie.
-          Ontdek de verjongende reis van Cupping en investeer in de gezondheid en schoonheid van jouw
+          draagt ​​bij aan een geleidelijke verbetering van uw welzijn en huidconditie.
+          Ontdek de verjongende reis van Cupping en investeer in de gezondheid en schoonheid van uw
           lichaam. Plan vandaag nog een afspraak en ervaar de voordelen van deze unieke behandeling.
         </p>
         <p className='font-bold'>Detoxbehandeling voetreflex in combinatie met cupping</p>

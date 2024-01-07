@@ -9,7 +9,7 @@ const Bellabaci = () => {
       <div className='md:w-1/3 p-4 md:ml-[80px] ml-6'>
         <h2 className="text-4xl font-bold md:mb-10 mb-12 md:mt-0 mt-4">Bellabaci</h2>
         <p className="md:text-lg text-[13px] md:mb-0 mb-10">
-          Bellabaci is een hoogwaardig merk met zowel duurzame cups als natuurlijke en duurzame cupping oliën die speciaal op de verschillende behoeftes van de huid afgestemd zijn. Ons advies wat betreft cupping is om uiteindelijk een kuur van 6-8 sessies te volgen, waardoor het optimale resultaat voor jouw welzijn behaald kan worden.
+          Bellabaci is een hoogwaardig merk met zowel duurzame cups als natuurlijke en duurzame cupping oliën die speciaal op de verschillende behoeftes van de huid afgestemd zijn. Ons advies wat betreft cupping is om uiteindelijk een kuur van 6-8 sessies te volgen, waardoor het optimale resultaat voor uw welzijn behaald kan worden.
         </p>
       </div>
       

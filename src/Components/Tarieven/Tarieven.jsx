@@ -8,18 +8,23 @@ const Tarieven = () => {
     {/* <div className='md:w-[105%] w-[95%] h-[1px] bg-[#023A15] mx-auto my-12'></div> */}
     <h1 className='md:text-[66px] text-4xl font-bold text-[#462D10] md:mb-10 md:mt-7'>Pedicure</h1>
     <p className='md:text-[32px] text-lg font-semibold mb-8'>Pedicurebehandelingen</p>
-    <div className="grid grid-cols-[6fr,1fr] gap-4"> 
+
+    <div className="grid grid-cols-[3fr,1fr] gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
-            Pedicurebehandeling Basis <span className='md:text-[16px] text-sm font-light'>(30-45 minuten)</span>
+          Pedicurebehandeling Basis <span className='md:text-[16px] text-sm font-light'>(30-45 minuten)</span>
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€45,-</p>
-
+    </div>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>Nagels knippen, verzorgen nagelomgeving, verwijderen eelt,
+      ingegroeide nagels en of schimmelnagels, verwijderen likdoorn, voeten
+      crème.</p>
+    <div className="grid grid-cols-[6fr,1fr] gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
             Pedicurebehandeling Complex <span className='md:text-[16px] text-sm font-light'>(45-60 minuten)</span>
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€58,-</p>
     </div>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>nagel(s) en- of schimmelnagels/ verwijderen likdoorns/ verzorgende voeten crème </p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>nagel(s) en-of schimmelnagels, verwijderen likdoorns en verzorgende voeten crème </p>
 
    
     <div className="grid grid-cols-[3fr,1fr] gap-4"> 
@@ -28,21 +33,16 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€80,-</p>
     </div>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>Pedicurebehandeling, scrub en voedende , hydraterend masker van Strictly Pure en voetmassage</p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>Pedicurebehandeling, scrub en voedend masker van Strictly Pure en voetmassage</p>
     
     <div className="grid grid-cols-[5fr,1fr] gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
-            Pedicurebehandeling diabetische/reumatische voet <span className='md:text-[16px] text-sm font-light'>(30-60 minuten)</span>
+            Pedicurebehandeling diabetische/reumatische voet <span className='md:text-[16px] text-sm font-light'>(30-45 minuten)</span>
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€50,-</p>
 
           <p className='md:text-[22px] text-md font-semibold'>
-          Pedicurebehandeling reumatische voet <span className='md:text-[16px] text-sm font-light'>(30-60 minuten)</span>
-          </p>
-          <p className='md:text-[22px] text-md font-bold text-right'>€50,-</p>
-
-          <p className='md:text-[22px] text-md font-semibold'>
-            Pedicurebehandeling overige risico voeten <span className='md:text-[16px] text-sm font-light'>(30-60 minuten)</span>
+            Pedicurebehandeling overige risico voeten <span className='md:text-[16px] text-sm font-light'>(30-45 minuten)</span>
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€50,-</p>
 
@@ -51,11 +51,11 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€25,-</p>
     </div>
-    <p className='italic md:text-[16px] text-sm font-light mb-5'>In de deelbehandeling wordt 1 probleem aangepakt, bijv. 1 likdoorn of 1 kloof</p>
+    <p className='italic md:text-[16px] text-sm font-light mb-5'>1 probleem behandeld, bijv 1 likdoorn of 1 kloof</p>
 
     <div className="grid grid-cols-2 gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
-            Nagels lakken* 
+            Teennagels lakken* 
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€10,-</p>
 
@@ -88,6 +88,8 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-md font-semibold'>
           Voet en onderbeenmassage <span className='md:text-[16px] text-sm font-light'>(30 minuten)</span>
           </p>
+
+          <p className='md:text-[22px] text-md font-bold text-right'>€30,-</p>
           <p className='md:text-[22px] text-md font-bold text-right'></p>
     </div>
     <p className='italic md:text-[16px] text-sm font-light mb-10'>alleen icm pedicurebehandeling</p>
@@ -127,7 +129,7 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€60,-</p>
       </div>
-      <p className='italic md:text-[16px] text-sm font-light mb-5'>Oppervlakte reiniging / bindweefselmassage / dag verzorging</p>
+      <p className='italic md:text-[16px] text-sm font-light mb-5'>Oppervlakte reiniging, bindweefselmassage, dag verzorging</p>
 
       <div className="grid grid-cols-[4fr,1fr] gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
@@ -135,7 +137,7 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right'>€60,-</p>
       </div>
-      <p className='italic md:text-[16px] text-sm font-light mb-5'>Oppervlakte reiniging / Guasha massage / dag verzorging</p>
+      <p className='italic md:text-[16px] text-sm font-light mb-5'>Oppervlakte reiniging, Guasha massage, dag verzorging</p>
 
       <div className="grid grid-cols-[4fr,1fr] gap-4"> 
           <p className='md:text-[22px] text-md font-semibold'>
@@ -192,7 +194,7 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right md:space-x-10 space-x-5'>
             <span>
-              €60,-
+              €65,-
             </span>
             <span>
               €75,-
@@ -209,7 +211,7 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right md:space-x-10 space-x-5'>
             <span>
-              €60,-
+              €65,-
             </span>
             <span>
               €75,-
@@ -226,7 +228,7 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right md:space-x-10 space-x-5'>
             <span>
-              €60,-
+              €65,-
             </span>
             <span>
               €75,-
@@ -241,7 +243,7 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-md font-semibold'>
           Bellabaci cupping kuur<span className='md:text-[16px] text-sm font-light ml-2'>45 min 7+1 gratis</span>
           </p>
-          <p className='md:text-[22px] text-md font-bold text-right'>€498,-</p>
+          <p className='md:text-[22px] text-md font-bold text-right'>€527,-</p>
 
           <p className='md:text-[22px] text-md font-semibold'>
           Bellabaci cupping kuur<span className='md:text-[16px] text-sm font-light ml-2'>60 min 7+1 gratis</span>
@@ -298,7 +300,7 @@ const Tarieven = () => {
       </p>
       <p className='md:text-[22px] text-md font-bold text-right'>60,-</p>
     </div>
-    <p className='md:mr-[200px] italic md:text-[16px] text-sm font-light mb-8'> Oppervlakte reiniging, dieptereiniging, masker, zuurstof en afsluitende dagcreme.</p>
+    <p className='md:mr-[200px] italic md:text-[16px] text-sm font-light mb-8'> Oppervlakte reiniging, dieptereiniging, masker, zuurstof behandeling en dagcreme.</p>
 
     
     <div className="grid grid-cols-[6fr,1fr] gap-4"> 
@@ -323,7 +325,7 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-md font-semibold mb-[16px]'>
           Wenkbrauwen epileren 
           </p>
-          <p className='md:text-[22px] text-md font-bold text-right'>€12,5-</p>
+          <p className='md:text-[22px] text-md font-bold text-right'>€12,50-</p>
 
           <p className='md:text-[22px] text-md font-semibold'>
           Bovenlip of kin waxen  
@@ -338,12 +340,12 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-md font-semibold'>
           Wenkbrauwen of wimpers verven  
           </p>
-          <p className='md:text-[22px] text-md font-bold text-right'>€12,5-</p>
+          <p className='md:text-[22px] text-md font-bold text-right'>€12,50-</p>
 
           <p className='md:text-[22px] text-md font-semibold'>
           Verven wenkbrauwen en wimpers
           </p>
-          <p className='md:text-[22px] text-md font-bold text-right mb-10'>€22,5-</p>
+          <p className='md:text-[22px] text-md font-bold text-right mb-10'>€22,50-</p>
     </div>
     </div>
     </div>

@@ -27,7 +27,9 @@ const Guasha = () => {
           </div>
           <div className='text-[#567C49] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[-10px]'>
             <p>Guasha is een eeuwenoude massagetechniek die zijn oorsprong vindt in het verre Oosten. Guasha betekent letterlijk ‘schrapen’. Bij deze massage wordt gebruik gemaakt van een jadesteen.</p>
-            <p>Deze ontspannende en zachte behandeling verbetert de energie-doorstroming en de bloed- en lymfecirculatie. Daarnaast verwijdert het afvalstoffen en zorgt het voor een betere collageenproductie. Een Guasha-gezichtsbehandeling verstevigt het bindweefsel, zorgt voor een frisse uitstraling en een gezonde kleur. Een gezichtsbehandeling met een Guasha-steen heeft een positief effect op de hele gezondheid.</p>
+            <p>Deze ontspannende en zachte behandeling
+                verbetert de energie-doorstroming en de bloed- en lymfecirculatie. Daarnaast verwijdert het de afvalstoffen en zorgt het voor een betere
+                collageenproductie.</p>
           </div>
         </div>
       );
