@@ -31,7 +31,7 @@ const Behandelingen = () => {
         <img src={Schoonheid} alt="Schoonheid" className='w-full h-auto' />
         <div className="absolute bottom-0 mb-[-80px] left-1/2 transform -translate-x-1/2 bg-white w-[95%] p-3 border-3" style={{ height: fixedBoxHeight }}>
           <h3 className="text-lg font-light text-[#462D10] mt-[-5px]">Schoonheid</h3>
-          <p className='text-[#716313] font-light text-[13px]'>Harmoniseer je energie, herstel je balans</p>
+          <p className='text-[#716313] font-light text-[13px]'>Harmoniseer uw energie, herstel uw balans</p>
         </div>
       </div>
 

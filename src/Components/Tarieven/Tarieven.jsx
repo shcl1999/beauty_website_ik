@@ -347,6 +347,24 @@ const Tarieven = () => {
           </p>
           <p className='md:text-[22px] text-md font-bold text-right mb-10'>€22,50-</p>
     </div>
+
+    <div className='md:w-[105%] w-[95%] h-[1px] bg-[#023A15] mx-auto my-12'></div>
+    <h1 className='md:text-[66px] text-4xl font-bold text-[#462D10] mb-12'>Annuleringsbeleid</h1>
+    <div className="grid grid-cols-[3fr,1fr] gap-4 mb-10"> 
+          <p className='md:text-[22px] text-md'>
+          Voor uw afspraak heb ik tijd in mijn agenda gereserveerd. Het kan zijn dat u verhinderd bent
+          voor uw afspraak. Laat dit op tijd weten.
+          Wanneer u de afspraak binnen 
+          <span className='font-bold'> 48 uur </span>
+          annuleert of verplaatst, wordt 50% van de geplande
+          behandeling in rekening gebracht.
+          Wanneer u de afspraak binnen 
+          <span className='font-bold'> 24 uur </span>
+          annuleert of verplaatst of helemaal niet komt zonder
+          afmelding, wordt 100% van de geplande behandeling in rekening gebracht.
+          Ik hoop op uw begrip hiervoor
+          </p>
+    </div>
     </div>
     </div>
   )

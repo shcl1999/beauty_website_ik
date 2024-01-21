@@ -58,6 +58,9 @@ const Voetreflex = () => {
               van het eigen risico. Het advies is om zelf bij uw zorgverzekeraar na te vragen of u
               recht heeft op een vergoeding. Ontspannende
               voetmassages worden niet vergoed door een zorgverzekeraar.
+              Klik 
+              <span className='underline mr-1'> <a href='https://www.vnrt.nl/clienten/vergoedingen/' target='_blank' rel="noreferrer">hier</a></span>
+              voor een overzicht van de vergoedingen van zorgverzekeraars.
           </p>
           </div>
         </div>

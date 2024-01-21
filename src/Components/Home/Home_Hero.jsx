@@ -22,13 +22,15 @@ const Hero = () => {
       <div className='lg:flex top-1 left-0 right-0 justify-center items-center h-[114px] text-white'>
         <ul className='text-xl flex md:space-x-[60px] text-md text-white pb-4 md:mt-3.5'>
         <li onClick={() => handleNavigate('/')}className='p-3 cursor-pointer'>Home</li>
-        <li className="dropdown p-3 cursor-pointer">Behandelingen
-            <div className="dropdown-content">
-              <HashLink className='text-lg' smooth to='/Pedicure'>Pedicure</HashLink>
-              <HashLink className='text-lg' smooth to='/Schoonheid'>Schoonheid</HashLink>
-              <HashLink className='text-lg' smooth to='/Cupping'>Cupping</HashLink>
-              <HashLink className='text-lg' smooth to='/Voetreflex'>Voetreflex</HashLink>
-            </div>
+        {/* add background color: red */}
+        <li className="dropdown p-3 cursor-pointer">
+          Behandelingen
+          <div className="dropdown-content">
+            <HashLink className='text-lg' smooth to='/Pedicure'>Pedicure</HashLink>
+            <HashLink className='text-lg' smooth to='/Schoonheid'>Schoonheid</HashLink>
+            <HashLink className='text-lg' smooth to='/Cupping'>Cupping</HashLink>
+            <HashLink className='text-lg' smooth to='/Voetreflex'>Voetreflex</HashLink>
+          </div>
           </li>
           <li onClick={() => handleNavigate('/Tarieven')} className='p-3 cursor-pointer'>Tarieven</li>
           <li className='p-3'><HashLink smooth to='/#Contact'>Contact</HashLink></li>
