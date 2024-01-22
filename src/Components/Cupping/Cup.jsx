@@ -1,12 +1,13 @@
 import React from 'react'
-import Image from '../../Assets/Cupping/Cupping.png'
+// import Image from '../../Assets/Cupping/Cupping.png'
+import CuppingImage from '../../Assets/Home/Cupping.png';
 
 const Cupping = () => {
   return (
     <div className="bg-[#f7f1ea] flex flex-col items-center min-h-screen" style={{minHeight: '120vh'}}>
       <div className="flex flex-col lg:flex-row items-center max-w-6xl mx-auto p-10">
         <div className="flex justify-center lg:justify-start w-full lg:w-1/2 md:mt-9 md:ml-[-50px]">
-          <img src={Image} alt="Bindweefselmassage" className="object-contain w-60 h-60 md:w-80 md:h-auto"/>
+          <img src={CuppingImage} alt="Bindweefselmassage" className="object-contain w-60 h-60 md:w-80 md:h-auto"/>
         </div>
         <div className="text-[#567C49] mt-8 lg:mt-0 w-full lg:w-1/2 md:mr-[180px] md:ml-[-100px]">
           <p className="md:text-lg text-[13px] font-bold mb-1">

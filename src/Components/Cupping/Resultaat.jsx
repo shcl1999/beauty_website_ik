@@ -1,6 +1,6 @@
 import React from 'react'
-import Before from '../../Assets/Cupping/Cuppingbefore.png'
-import After from '../../Assets/Cupping/CuppingAfter.png'
+import Before from '../../Assets/Cupping/CuppingBefore1.jpeg'
+import After from '../../Assets/Cupping/CuppingAfter1.jpeg'
 const Resultaat = () => {
   return (
     <div className="bg-[#f7f1ea] flex flex-col items-start min-h-screen" style={{minHeight: '85vh'}}>
