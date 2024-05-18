@@ -19,7 +19,7 @@ const General_Top = ({ backgroundColor, title }) => {
            style={{ width: '70px', height: 'auto' }} />
       
       <div className='lg:flex top-1 left-0 right-0 justify-center items-center h-[114px] text-white'>
-        <ul className='text-xl flex md:space-x-[60px] text-md text-white pb-4'>
+        <ul className='md:text-xl flex md:space-x-[60px] space-x-[1px] text-md text-white pb-4'>
         <li onClick={() => handleNavigate('/')}className='p-3 cursor-pointer'>Home</li>
         <li className="dropdown p-3 cursor-pointer">Behandelingen
             <div className="dropdown-content">

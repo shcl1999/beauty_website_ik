@@ -20,7 +20,7 @@ const Hero = () => {
            style={{ width: '70px', height: 'auto' }} />
       
       <div className='lg:flex top-1 left-0 right-0 justify-center items-center h-[114px] text-white'>
-        <ul className='text-xl flex md:space-x-[60px] text-md text-white pb-4 md:mt-3.5'>
+        <ul className='md:text-xl flex md:space-x-[60px] space-x-[1px] text-md text-white pb-4 md:mt-3.5'>
         <li onClick={() => handleNavigate('/')}className='p-3 cursor-pointer'>Home</li>
         {/* add background color: red */}
         <li className="dropdown p-3 cursor-pointer">

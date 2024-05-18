@@ -22,14 +22,14 @@ const Cupping = () => {
 
         </div>
       </div>
-      <div className='text-[#567C49] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[-10px]'>
+      <div className='text-[#567C49] md:text-lg text-[13px] font-light md:ml-[125px] md:mr-[125px] ml-10 mt-[-10px] mr-[22px]'>
         <p className='font-bold'>Cupping:</p>
         <p className='mb-5'>Cupping is de eeuwenoude techniek, waarbij speciale glazen of siliconen cups op de huid worden geplaatst om een ​​zacht vacuüm te creëren. Deze methode bevordert de bloedcirculatie, verlicht spierspanning en stimuleert een gezonde lymfestroom.</p>
-        <p className='font-bold'>Hoe ziet een Cuppingbehandeling eruit:</p>
+        {/* <p className='font-bold'>Hoe ziet een Cuppingbehandeling eruit:</p>
         <ul className="list-disc pl-3 md:text-lg text-[13px] font-light space-y-2 mb-5">
             <li>Een fijne voetreflexmassage op de meridianen en de drukpunten. </li>
             <li >De sessie wordt met Cupping voortgezet, waar u met behulp van Bellabaci siliconen cups gemasseerd wordt. </li>
-        </ul>
+        </ul> */}
         <p className='font-bold'>Cupping als Kuur:</p>
         <p className='mb-5'>De kracht van Cupping komt het beste tot uiting bij karakteristieke behandelingen. Onze aanbevolen
           kuur van 6-8 sessies biedt niet alleen directe voordelen, maar ook langdurige resultaten. Elke sessie
