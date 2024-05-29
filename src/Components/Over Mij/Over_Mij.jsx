@@ -29,6 +29,7 @@ const Over_Mij = () => {
                 <li>Pedicure</li>
                 <li>Medisch pedicure</li>
                 <li>Voetreflextherapeut</li>
+                <li>Schoonheidsspecialiste</li>
             </ul>
           <h1 className='mt-6 mb-3 text-2xl md:text-4xl'>Schoonheidsspecialisme, gespecialiseerd in:</h1>
             <ul className="list-disc pl-5 md:text-lg text-[13px] font-light space-y-2 mb-10">

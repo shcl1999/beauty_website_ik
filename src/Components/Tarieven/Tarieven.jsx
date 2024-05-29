@@ -321,11 +321,12 @@ const Tarieven = () => {
 
     <p className='md:mr-[200px] italic md:text-[16px] text-[12px] font-light mb-10'>*Bij schoonheidsbehandelingen is het mogelijk om ipv de klassieke gezichtsmassage een guasha massage of de Japanse gezichtsmassage uit te laten voeren tegen een meerprijs van €12.50.</p>
 
-    <div className="grid grid-cols-[6fr,1fr] "> 
-          <p className='md:text-[22px]text-[15px] font-semibold'>
+
+    <div className="grid grid-cols-[6fr,1fr]"> 
+          <p className='md:text-[22px] text-[15px] font-semibold'>
           Wenkbrauwen epileren 
           </p>
-          <p className='md:text-[22px] text-[15px] font-bold text-right'>€12,50-</p>
+          <p className='md:text-[22px] text-[15px] font-bold text-right'>€12,50,-</p>
     </div>
           <p className='md:mr-[200px] italic md:text-[16px] text-[12px] font-light mb-8'>Deze behandelingen kunnen alleen in combinatie met een van de huidverbeterende schoonheidsbehandelingen</p>
 
@@ -350,7 +351,7 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-[15px] font-semibold'>
           Wenkbrauwen of wimpers verven  
           </p>
-          <p className='md:text-[22px]text-[15px] font-bold text-right'>€12,50-</p>
+          <p className='md:text-[22px] text-[15px] font-bold text-right'>€12,50,-</p>
     </div>
           <p className='md:mr-[200px] italic md:text-[16px] text-[12px] font-light mb-8'>Deze behandelingen kunnen alleen in combinatie met een van de huidverbeterende schoonheidsbehandelingen</p>
 
