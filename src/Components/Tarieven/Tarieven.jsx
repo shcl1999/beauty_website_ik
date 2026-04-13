@@ -13,7 +13,7 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-[15px] font-semibold'>
           Pedicurebehandeling Basis <span className='md:text-[16px] text-[12px] font-light'>(30-45 minuten)</span>
           </p>
-          <p className='md:text-[22px] text-[15px] font-bold text-right'>€45,-</p>
+          <p className='md:text-[22px] text-[15px] font-bold text-right'>€47.50</p>
     </div>
     <p className='italic md:text-[16px] text-[12px] font-light mb-5'>Nagels knippen, verzorgen nagelomgeving, verwijderen eelt,
       ingegroeide nagels en of schimmelnagels, verwijderen likdoorn, voeten
@@ -22,7 +22,7 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-[15px] font-semibold'>
             Pedicurebehandeling Complex <span className='md:text-[16px] text-[12px] font-light'>(45-60 minuten)</span>
           </p>
-          <p className='md:text-[22px] text-[15px] font-bold text-right'>€58,-</p>
+          <p className='md:text-[22px] text-[15px] font-bold text-right'>€60.00</p>
     </div>
     <p className='italic md:text-[16px] text-[12px] font-light mb-5'>nagel(s) en-of schimmelnagels, verwijderen likdoorns en verzorgende voeten crème </p>
 
@@ -49,7 +49,7 @@ const Tarieven = () => {
           <p className='md:text-[22px] text-[15px] font-semibold'>
             Deelbehandeling <span className='md:text-[16px] text-[12px] font-light'>(15 minuten)</span>
           </p>
-          <p className='md:text-[22px] text-[15px] font-bold text-right'>€25,-</p>
+          <p className='md:text-[22px] text-[15px] font-bold text-right'>€30.00</p>
     </div>
     <p className='italic md:text-[16px] text-[12px] font-light mb-5'>1 probleem behandeld, bijv 1 likdoorn of 1 kloof</p>
 
